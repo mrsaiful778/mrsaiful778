@@ -4,11 +4,11 @@
 
 
 
-- 🔭 I’m currently working on home **course registration**
+- 🔭 I’m currently working on home
 
-- 👯 I’m looking to collaborate on **brand shop**
+- 👯 I’m looking to collaborate on
 
-- 🤝 I’m looking for help with **event management**
+- 🤝 I’m looking for help with
 - 📫 How to reach me **mrsaifulislam778@gmail.com**
 
  <h3 align="left">Languages and Tools:</h3>
