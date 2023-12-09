@@ -1,4 +1,3 @@
-<img class="w-full" src="https://i.ibb.co/Myz2Mx7/stacked-waves-haikei.png">
 <h1 align="center">Hi 👋, I'm Saiful islam</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
 
