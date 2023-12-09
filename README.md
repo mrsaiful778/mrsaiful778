@@ -1,6 +1,7 @@
 
 
-## Hi there 👋, Hey i'm react developer
+## Hi there 👋,
+## Hey i'm react developer
 #### My effort always client benefit 
 
 - 🔭 I’m currently working on home **course registration**
