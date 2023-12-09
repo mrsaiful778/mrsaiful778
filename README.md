@@ -4,11 +4,9 @@
 
 
 
-- 🔭 I’m currently working on home
-
-- 👯 I’m looking to collaborate on
-
-- 🤝 I’m looking for help with
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on GitHub 
 - 📫 How to reach me **mrsaifulislam778@gmail.com**
 
  <h3 align="left">Languages and Tools:</h3>
