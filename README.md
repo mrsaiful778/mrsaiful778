@@ -47,6 +47,14 @@
 - Product Reviews and Ratings: E-commerce websites often include customer reviews and ratings for products, enabling shoppers to make informed purchasing decisions. These reviews provide insights into product quality, performance, and customer satisfaction.
 
 - Personalization and Recommendations: E-commerce platforms utilize data analytics and machine learning to provide personalized shopping experiences. They offer product recommendations based on a customer's browsing and purchase history, enhancing user engagement and potentially increasing sales.
+- ### project name: tech verse
+- live site link: https://scintillating-heliotrope-a72b18.netlify.app
+
+- ### Feature of this Projects
+- There will be a navbar.Here some are private route and some are public.
+ -In home page there are 4 card in featured section, and 6 card in tranding section,
+- When user click any product name they see the details of this product.
+- In this project, a separate dashboard system is implemented, designed specifically for users, admins, moderators, and managers, enhancing the convenience in managing the project.
 
 
 
