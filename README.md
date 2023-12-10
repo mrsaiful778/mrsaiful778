@@ -27,7 +27,7 @@
 
 - Add at least 3 Project features.
 
-#I will discuss about 3 features of this donation webpage.
+ - # I will discuss about 3 features of this donation webpage.
 
 - The webpage is designed dynamically.The details of each category will be displayed. The webpage has a search option that will show data from different categories.
 
