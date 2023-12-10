@@ -35,7 +35,7 @@
 - Donation webpage button is placed, when more then 4 data donated then See All button is displayed and button clicked after hidden button. and one category donation cannot be donated more than once, if a donor wants to select more than one category, donors will be informed through an alert.
 
 - Also, another important feature has been added to the webpage which is statistically shown in pie chart, which will show the donors what percentage he has donated.
-- 
+ 
 - ### project name: Brand Shop.
 - live site link: https://e-commerce--based.web.app/
 - User Friendly Interface: E-commerce websites prioritize user-friendliness, offering intuitive navigation, clear product categorization, and a seamless checkout process. They aim to provide an easy and enjoyable shopping experience for customers.
