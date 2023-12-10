@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/j5zkNd8/github-header-image.png)
+![Header](https://i.ibb.co/HKYLmC6/getting-git-right-1024x538-1024x585.jpg)
 
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
 
